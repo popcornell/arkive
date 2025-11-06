@@ -13,6 +13,9 @@ pip install -e .
 - **macOS**: `brew install ffmpeg`
 - **Windows**: Download from [ffmpeg.org](https://ffmpeg.org/download.html)
 
+Alternative: 
+- **conda**: `conda install conda-forge::ffmpeg`
+
 ## Usage
 
 ### Creating a new archive file
